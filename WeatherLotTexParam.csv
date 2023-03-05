@@ -6,6 +6,7 @@ ID,disableParam_NT,disableParamReserve1,disableParamReserve2,srcR,srcG,srcB,pad1
 15,0,0,System.Byte[],15,127,15,System.Byte[],615000000,System.Byte[]
 20,0,0,System.Byte[],0,0,255,System.Byte[],620000000,System.Byte[]
 21,0,0,System.Byte[],0,255,255,System.Byte[],4000,System.Byte[]
+22,0,0,System.Byte[],0,128,255,System.Byte[],620000100,System.Byte[]
 25,0,0,System.Byte[],0,196,255,System.Byte[],4001,System.Byte[]
 30,0,0,System.Byte[],255,255,0,System.Byte[],630000000,System.Byte[]
 31,0,0,System.Byte[],255,255,128,System.Byte[],5010,System.Byte[]

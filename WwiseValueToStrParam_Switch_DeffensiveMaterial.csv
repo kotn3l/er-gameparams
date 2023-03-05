@@ -123,3 +123,4 @@ ID,disableParam_NT,disableParamReserve1,disableParamReserve2,ParamStr
 172,0,0,System.Byte[],_172_ScaleWeakness
 173,0,0,System.Byte[],_173_ScaleWeaknessHuge
 174,0,0,System.Byte[],_174_HardScale
+151114,0,0,System.Byte[],_151114

@@ -4,3 +4,4 @@ ID,host,WhiteGhost_None,WhiteGhost_Umbasa,WhiteGhost_Berserker,BlackGhost_None_S
 2000,0,1,1,1,1,1,1,1,1,1,2,2,1,1,0,0,System.Byte[]
 3000,0,1,1,1,1,1,1,1,1,1,2,2,1,1,0,0,System.Byte[]
 4000,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,System.Byte[]
+6000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,System.Byte[]

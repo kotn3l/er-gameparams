@@ -59,7 +59,10 @@ ID,disableParam_NT,disableParamReserve1,disableParamReserve2,unlockFlagId,invali
 116,0,0,System.Byte[],0,0,116
 117,0,0,System.Byte[],0,0,117
 118,0,0,System.Byte[],0,0,118
+120,0,0,System.Byte[],0,0,120
+121,0,0,System.Byte[],0,0,121
 150,0,0,System.Byte[],0,0,150
 151,0,0,System.Byte[],0,0,151
 152,0,0,System.Byte[],0,0,152
+153,1,0,System.Byte[],0,0,153
 200,0,0,System.Byte[],0,0,200
