@@ -1,0 +1,6 @@
+ID,GridEnableCreateHeightMin,GridEnableCreateHeightMax,Reserve
+60081202,-600,600,System.Byte[]
+60081302,600,10000,System.Byte[]
+60091302,600,10000,System.Byte[]
+60101202,600,10000,System.Byte[]
+60101302,600,10000,System.Byte[]

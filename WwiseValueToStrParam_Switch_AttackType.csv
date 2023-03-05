@@ -1,0 +1,5 @@
+ID,disableParam_NT,disableParamReserve1,disableParamReserve2,ParamStr
+0,0,0,System.Byte[],_0_Cut
+1,0,0,System.Byte[],_1_Pierce
+2,0,0,System.Byte[],_2_Hit
+3,0,0,System.Byte[],_3_Rub

@@ -1,0 +1,8 @@
+ID,weatherSunny,weatherClearSky,weatherWeakCloudy,weatherCloudy,weatherRain,weatherHeavyRain,weatherStorm,weatherStormForBattle,weatherSnow,weatherHeavySnow,weatherFog,weatherHeavyFog,weatherHeavyFogRain,weatherSandStorm,pad1,timeStartHour,timeStartMin,timeEndHour,timeEndMin,pad2
+0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,System.Byte[]
+99999,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,System.Byte[]
+101000,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,20,0,5,59,System.Byte[]
+101001,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,6,0,19,59,System.Byte[]
+101010,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,6,0,19,59,System.Byte[]
+21200000,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,System.Byte[]
+21200010,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,System.Byte[]

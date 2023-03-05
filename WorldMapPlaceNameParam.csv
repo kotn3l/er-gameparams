@@ -1,0 +1,10 @@
+ID,disableParam_NT,disableParamReserve1,disableParamReserve2,worldMapPieceId,textId,pad1,areaNo,gridXNo,gridZNo,pad2,posX,posY,posZ
+1,0,0,System.Byte[],-1,1000,System.Byte[],10,0,0,System.Byte[],-238.22,78.23,383.15
+8000000,0,0,System.Byte[],0,8000000,System.Byte[],10,0,0,System.Byte[],-750.64,-273.18,-66.63
+8000400,1,0,System.Byte[],4,8000400,System.Byte[],60,41,46,System.Byte[],-119.35,342.88,96.48
+8000800,1,0,System.Byte[],8,8000800,System.Byte[],60,39,55,System.Byte[],70.4,748.1,615.7
+8000900,1,0,System.Byte[],9,8000900,System.Byte[],60,48,36,System.Byte[],255.99,109.6,-218.16
+8001200,1,0,System.Byte[],12,8001200,System.Byte[],60,49,52,System.Byte[],1256.64,1099.75,-192.75
+8010000,1,0,System.Byte[],100,8010000,System.Byte[],12,1,0,System.Byte[],-578.87,-22.73,834.53
+8010200,1,0,System.Byte[],102,8010200,System.Byte[],12,2,0,System.Byte[],1553.29,-718.62,2496.44
+8010400,1,0,System.Byte[],104,8010400,System.Byte[],12,3,0,System.Byte[],-632.16,255.73,654.52
