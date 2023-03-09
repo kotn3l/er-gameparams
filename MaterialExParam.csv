@@ -236,7 +236,7 @@ ID,paramName,materialId,materialParamValue0,materialParamValue1,materialParamVal
 22705,[Albedo]_3_[Tint],1,1,0.94,0.89,1,3,System.Byte[]
 22706,[Albedo]_1_[Tint],1,1,0.83,0.77,1,1,System.Byte[]
 22707,[Albedo]_3_[Tint],1,1,0.92,0.91,1,2,System.Byte[]
-22800,[Albedo]_Base_[Tint],1,0.47,0.47,0.7,1,1,System.Byte[]
+22800,[Albedo]_Base_[Tint],1,0.6,0.85,1,1,1,System.Byte[]
 22900,DetailTexSet3_MaskInt,1,1,0,0,0,1,System.Byte[]
 22901,[Albedo]_1_[Tint],1,1,1,1,1,4,System.Byte[]
 22902,GrayScale_[Int],1,0.5,0,0,0,1,System.Byte[]

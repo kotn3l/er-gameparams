@@ -19,7 +19,6 @@ ID,textID,key,enableUnassign,enablePadConfig,enableMouseConfig,group,mappingText
 18,280300,14,1,1,1,0,280300,1,1,System.Byte[]
 19,280301,15,1,1,1,0,280301,1,1,System.Byte[]
 20,280302,16,1,1,1,0,280302,1,1,System.Byte[]
-21,280040,-1,1,1,1,0,0,1,1,System.Byte[]
 22,280400,17,1,1,1,0,280400,1,1,System.Byte[]
 23,280401,18,1,1,1,0,280401,1,1,System.Byte[]
 24,280402,19,1,1,1,0,280402,1,1,System.Byte[]

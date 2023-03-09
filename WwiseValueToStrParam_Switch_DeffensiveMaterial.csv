@@ -33,7 +33,7 @@ ID,disableParam_NT,disableParamReserve1,disableParamReserve2,ParamStr
 31,0,0,System.Byte[],_001_StonePavement
 32,0,0,System.Byte[],_001_StonePavement
 33,0,0,System.Byte[],_001_StonePavement
-34,0,0,System.Byte[],_001_StonePavement
+34,0,0,System.Byte[],_034_Glass
 35,0,0,System.Byte[],_012_FleshAndBlood
 36,0,0,System.Byte[],_026_PoisonSwampPaddle
 37,0,0,System.Byte[],_023_PoisonSwamp

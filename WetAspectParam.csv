@@ -18,4 +18,3 @@ ID,baseColorR,baseColorG,baseColorB,reserve_0,baseColorA,metallic,reserve_1,rese
 16,0,0,0,System.Byte[],0,0,System.Byte[],System.Byte[],System.Byte[],0,0,0,System.Byte[]
 17,255,255,0,System.Byte[],1,0,System.Byte[],System.Byte[],System.Byte[],0,0,0,System.Byte[]
 18,200,200,200,System.Byte[],0.8,255,System.Byte[],System.Byte[],System.Byte[],1,0.85,255,System.Byte[]
-19,130,60,30,System.Byte[],0.7,0,System.Byte[],System.Byte[],System.Byte[],0.2,0.7,130,System.Byte[]

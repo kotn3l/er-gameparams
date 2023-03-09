@@ -11,7 +11,6 @@ ID,resId,pad1,textId,seId,canMixMapName,pad3,pad2
 11,11,System.Byte[],331311,444444444,1,0,System.Byte[]
 17,17,System.Byte[],331317,888888887,0,0,System.Byte[]
 21,21,System.Byte[],331321,888888891,0,0,System.Byte[]
-22,22,System.Byte[],331322,888880001,0,0,System.Byte[]
 30,30,System.Byte[],331330,888888892,0,0,System.Byte[]
 31,30,System.Byte[],331331,888888892,0,0,System.Byte[]
 32,30,System.Byte[],331332,888888892,0,0,System.Byte[]
